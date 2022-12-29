@@ -53,8 +53,9 @@ header {
     background-size: cover;
     background-repeat: no-repeat;
     height: 800px;
+    
 }
-/*product header style*/
+/*product section header style*/
 
 .headertext input{
     height: 43px;
