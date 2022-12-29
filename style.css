@@ -74,7 +74,7 @@ header {
 }
 
 .productheader {
-    background:linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/image/product.jpg');
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('product.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 800px;
@@ -83,14 +83,14 @@ header {
 /*contact header style*/
 
 .contactheader {
-    background:linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/image/contact.png');
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('contact.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 800px;
 }
 /*blog header style*/
 .blogheader {
-    background:linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/image/blog.jpg');
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('blog.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 800px;
