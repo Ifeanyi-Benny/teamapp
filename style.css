@@ -49,7 +49,7 @@ ul li a:hover {
 
 
 header {
-    background:linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/image/headerimage.jpg');
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('headerimage.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 800px;
