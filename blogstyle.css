@@ -1,0 +1,165 @@
+* {
+  
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font-size: 1rem;
+   
+}
+
+body {
+    background-color: hsl(180, 9%, 93%);
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+nav ul {
+    display: inline-flex;
+    list-style-type: none;
+    padding-right: 200px;
+}
+
+nav img {
+    padding-left: 200px;
+}
+
+ul li {
+    font-family: 'Mulish', sans-serif;
+    padding-top: 0px;
+    margin: 20px;
+    font-size: 1rem;
+    text-decoration: underline;
+    
+}
+
+ul li a{
+    color: #292F4C;
+}
+
+
+ul li a:hover {
+    color: hsl(214, 84%, 56%);
+    cursor: pointer;
+}
+
+.blog-header-text{
+    width: 500px;
+    margin: 0 auto;
+    color: #292F4C;
+    margin-top: 140px;
+} 
+
+.author-date{
+    display: flex;
+    margin-top: 2px;
+    margin-left: 94px;
+    
+}
+.author-date p{
+    margin-top: 10px;
+    padding-right: 20px;
+    
+}
+
+.blog1-header-image{
+    margin-left: 300px;
+    margin-top: 80px;
+   
+}
+
+.blog1-text{
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 48px;
+    color: hsl(230, 30%, 23%);
+    line-height: 1.6;
+    font-size: 1.2rem;
+}
+
+.author-section{
+    display: flex;
+    margin-top: 20px;
+  margin-left: 410px;
+  margin-bottom: 80px;
+    
+}
+.author-section img{
+    height: 49px;
+    margin-top: 14px;
+    margin-right: 6px;
+}
+
+.author-detail{
+    margin-top: 10px;
+    padding-right: 20px;
+    flex-direction: column;
+    color: hsl(230, 30%, 23%);
+}
+
+.author-section .author-detail h3{
+    text-transform: capitalize;
+    color: hsl(230, 30%, 23%);
+}
+
+.blog1-header-image img{
+    height: 450px;
+    width: 900px;
+}
+
+.footer-details {
+    font-size: 1.1rem;
+    text-transform: capitalize;
+}
+
+.subscribe input{
+    height: 23px;
+    width: 146px;
+}
+
+.subscribe input:nth-of-type(2){
+    height: 26px;
+    width: 69px;
+    margin-top: 8px;
+  color:hsl(0, 0%, 100%);
+  background-color: #2F80ED;
+  border: none;
+  cursor: pointer;
+}
+footer{
+    background-color: hsl(230, 30%, 23%);
+    height: 220px;
+    margin-top: 100px;
+}
+.footer .footer-text{
+    font-size: 1.1rem;
+}
+
+.footer a {
+    color: hsl(0, 0%, 100%);
+    text-decoration: none;
+}
+
+.footer a:hover {
+    color: #2F80ED;
+    
+}
+.footer {
+    /* font-family: 'Mulish', sans-serif; */
+    letter-spacing: 1.2px;
+    padding-top: 60px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 200px;
+    color: hsl(0, 0%, 100%);
+}
+
+ 
+
+
+
